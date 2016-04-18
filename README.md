@@ -1,3 +1,14 @@
-# My Awesome Book
+# 开发环境由win7转向ubuntu
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+摘要：  我们公司的站点是通过Magento 二次开发的, Magento 本身的框架比较庞大和复杂,在 win7下的wamp环境下运行缓慢,即便是在连接Linux 主机的数据库的情况下, 前台的响应时间在 5S - 10S 左右,这种响应时间非常影响效率,以及心情.
+
+于是我决定对我们的开发环境进行升级,所有开发团队迁移至Ubuntu 进行开发.
+主要解决问题和优势：
+
+1. http请求响应时间由5 -10 s 的时间缩短到 1 - 2s
+2. 减少本地与线上差异情况. (主要是环境以及大小写区分)
+3. 提升开发成员对linux的熟悉程度,以及对程序的理解.
+
+
+   
+
