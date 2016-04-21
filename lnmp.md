@@ -4,6 +4,7 @@
    * 解压   ```tar -zxvf lnmp.full.1.1.tar.gz```
    * 安装   ```cd lnmp.full.1.1 & sudo ./ubuntu.sh```
    * 按步骤设置 | mysql root 必须设置密码 | PHP 5.3.28 | mysql 5.5.37
+
    
 2. 网站代码获取
    * ```cd /home/wwwroot/```
