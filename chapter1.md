@@ -20,7 +20,7 @@
 4. 配置hosts文件  | ```sudo vi /etc/hosts ``` | 添加 127.0.0.1 ets.local.com 
 5. 增加 git 对 ets.local.com 的操作权限   |  ```sudo usermod -a -G www shaco``` 
 6. 
-7. 浏览器访问 ets.local.com 即可生效
+7. 浏览器访问 ets.local.com 即可生效 
 8. asdf
 9. asdf
    
