@@ -23,7 +23,7 @@
 5.  windows git tortoisegit 中导出几个版本对比修改文件的替代方式
   * 通过命令进行对比并且进行打包操作,两种方式
       
-     ① ```git diff HEAD HEAD~3 --name-only | xargs zip update.zip``` 对前3个版本进行打包
+     ① ```git diff HEAD HEAD~3 --name-only | xargs zip update.zip```  对前3个版本进行打包
     
      ② ```git archive -o update.zip HEAD $(git diff HEAD HEAD~3 --name-only)``` 
      
