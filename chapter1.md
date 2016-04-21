@@ -6,7 +6,7 @@
    * 按步骤设置 | mysql root 必须设置密码 | PHP 5.3.28 | mysql 5.5.37
    
 2. 网站代码获取
-   * cd /home/wwwroot/
+   * ```cd /home/wwwroot/```
    * 通过git拉取网站代码  ```git clone git@192.168.1.4:/opt/git/ets.git ```
    * 修改网站目录  ```mv ets ets.local.com```
    * 复制配置文件  ```scp root@192.168.1.4:/home/wwwroot/ets.local.com/app/etc/local.xml app/etc/  ```
