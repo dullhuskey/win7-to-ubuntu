@@ -5,4 +5,5 @@
 * [LNMP 环境配置](lnmp.md)
 * [安装windows 虚拟机](virtualbox_windows.md)
 * [Linux 端必要工具安装](linux_must_setup.md)
+* Git Server 部署
 
