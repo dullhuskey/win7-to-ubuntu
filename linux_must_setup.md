@@ -15,4 +15,5 @@
 > 需要文件安装的工具
 1. [qq2012国际版](qq2012_setup.md)
 2. [数据库操作软件DBeaver](DBeaver_setup.md)
+3. [sogoupinyin](sougouPY_setup.md)
 
