@@ -7,6 +7,7 @@
 1. 截图工具 Shutter
 2. SSH 连接管理器 PuTTY SSH Client
 3. FileZila FTP 管理工具
+4. qq 安装
 
 
 
