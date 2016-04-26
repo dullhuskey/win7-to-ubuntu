@@ -10,7 +10,9 @@
    * ```cd /home/wwwroot/```
    * 通过git拉取网站代码  ```git clone git@192.168.1.4:/opt/git/ets.git ```
    * 修改网站目录  ```mv ets ets.local.com```
-   * 复制配置文件  ```scp root@192.168.1.4:/home/wwwroot/ets.local.com/app/etc/local.xml app/etc/  ```
+   * 复制配置文件  
+     ```scp root@192.168.1.4:/home/wwwroot/ets.local.com/app/etc/local.xml app/etc/ ```
+     
    * 修改配置文件  ```vi app/etc/local.xml```  | 修改 host 为 192.168.1.4 | 数据库链接帐号密码修改
    * 切换到在开发 主分支  ```git branch develop origin/develop```  
    
@@ -23,7 +25,7 @@
 4. 配置hosts文件  | ```sudo vi /etc/hosts ``` | 添加 127.0.0.1 ets.local.com 
 
 5. 增加 git 对 ets.local.com 的操作权限  
-  * ```sudo usermod -a -G www shaco```   www 为WEB 用户组, shaco 为ubuntu 用户名
+  * ```sudo usermod -a -G www dullhuskey```   www 为WEB 用户组, dullhuskey 为ubuntu 用户名
   * 更改网站所有权 | ```cd /home/wwwroot/```  | ```chown www:www -R ets.local.com```
   
       
