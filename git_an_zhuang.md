@@ -11,7 +11,7 @@
   
   
 3.  本地服务器增加Git 权限
-  * 复制公钥信息  ```/home/www/shaco/.ssh/id_rsa.pub```
+  * 复制公钥信息  ```/home/dullhuskey/.ssh/id_rsa.pub```
   * 进入 ```ssh root@192.168.1.4```
   * 将公钥复制进许可证   ```vi /home/git/.ssh/authorized_keys ``` 将自己的公钥信息粘贴到文件最后
       ![](选区_001.png)
