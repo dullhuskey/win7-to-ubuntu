@@ -25,5 +25,5 @@
     wine-qqintl &
     ```
 
-  * 保存,并修改文件权限 ```sudo chown shaco:shaco qq``` | ```sudo chmod u+rwx qq```
+  * 保存,并修改文件权限 ```sudo chown dullhuskey:dullhuskey qq``` | ```sudo chmod u+rwx qq```
   * 以后就可以通过命令行输入 ```qq``` 启动QQ了
