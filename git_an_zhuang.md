@@ -5,9 +5,9 @@
   
   
 2.  生成 ssh key 
-  * 设置名称 ```git config --global user.name "shaco"```
-  * 设置email ``` git config --global user.email "shaco@zongshengtech.com"```
-  * 生成 ssh public key ``` ssh-keygen -t rsa -C "shaco@zongshengtech.com"```不用设置密码，3个回车即可
+  * 设置名称 ```git config --global user.name "dullhuskey"```
+  * 设置email ``` git config --global user.email "dullhuskey@gmail.com"```
+  * 生成 ssh public key ``` ssh-keygen -t rsa -C "dullhuskey@gmail.com"```不用设置密码，3个回车即可
   
   
 3.  本地服务器增加Git 权限
