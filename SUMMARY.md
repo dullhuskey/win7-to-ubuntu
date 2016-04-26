@@ -6,6 +6,6 @@
 * [安装windows 虚拟机](virtualbox_windows.md)
 * [Linux 端必要工具安装](linux_must_setup.md)
    * [qq2012国际版安装](qq2012_setup.md)
-   * DBeaver 安装
+   * [DBeaver 安装](DBeaver_setup.md)
 * [Git Server 部署以及迁移](gitserver.md)
 
