@@ -10,6 +10,6 @@
    * [搜狗输入法 安装](sogouPY_setup.md)
    * [sublime 安装以及中文输入修复](sublime_setup.md)
 * [其他设置](other_setting.md)
-   * [VPN 连接设置](vpnsetup_md.md)
+   * [VPN 连接设置](vpnsetup.md)
 * [Git Server 部署以及迁移](gitserver.md)
 
