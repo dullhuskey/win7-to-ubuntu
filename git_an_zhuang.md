@@ -14,7 +14,7 @@
   * 复制公钥信息  ```/home/dullhuskey/.ssh/id_rsa.pub```
   * 进入 ```ssh root@192.168.1.4```
   * 将公钥复制进许可证   ```vi /home/git/.ssh/authorized_keys ``` 将自己的公钥信息粘贴到文件最后
-      ![](选区_001.png)
+      ![](images/gitpublickey.png)
   
 
 4.  安装 git 查看工具  gitg
