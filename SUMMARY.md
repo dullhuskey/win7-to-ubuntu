@@ -12,4 +12,6 @@
 * [其他设置](other_setting.md)
    * [VPN 连接设置](vpnsetup_md.md)
 * [Git Server 部署以及迁移](gitserver.md)
+* [PHPStorm 设置](phpstorm_setting.md)
+	
 
