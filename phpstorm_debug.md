@@ -7,6 +7,7 @@
 	* `#phpize` 或者 `#/usr/local/php/bin/phpize`
 	* `#./configure --enable-xdebug --with-php-config=/usr/local/php/bin/php-config`
 	* `#make`
+	* `#make install`
 	* `#cp modules/xdebug.so /usr/local/php/lib/php/extensions/no-debug-non-zts-20131226/` PHP extensions 路径根据自己实际情况替换
 	* `#vi /usr/local/php/etc/php.ini`
 	* 在底部添加xdebug配置
